@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\bin\Debug\netcoreapp3.1\Be Fruitful.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\bin\Debug\netcoreapp3.1\Be Fruitful.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\bin\Debug\netcoreapp3.1\Be Fruitful.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\bin\Debug\netcoreapp3.1\Be Fruitful.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\bin\Debug\netcoreapp3.1\Be Fruitful.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\bin\Debug\netcoreapp3.1\Be Fruitful.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\obj\Debug\netcoreapp3.1\Be Fruitful.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\obj\Debug\netcoreapp3.1\Be Fruitful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\obj\Debug\netcoreapp3.1\Be Fruitful.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\obj\Debug\netcoreapp3.1\Be Fruitful.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\obj\Debug\netcoreapp3.1\Be Fruitful.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\obj\Debug\netcoreapp3.1\Be Fruitful.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\obj\Debug\netcoreapp3.1\Be Fruitful.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Be Fruitful\Be Fruitful\obj\Debug\netcoreapp3.1\Be Fruitful.genruntimeconfig.cache
